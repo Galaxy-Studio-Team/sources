@@ -1,1 +1,1 @@
-QR Code image
+# QR Code image
