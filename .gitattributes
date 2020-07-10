@@ -1,3 +1,6 @@
-Getting-Over-It.exe filter=lfs diff=lfs merge=lfs -text
-Just-Golf.exe filter=lfs diff=lfs merge=lfs -text
-Not-Quite-Ball-Physics.exe filter=lfs diff=lfs merge=lfs -text
+Getting[[:space:]]Over[[:space:]]It.exe filter=lfs diff=lfs merge=lfs -text
+Hit[[:space:]]the[[:space:]]Trash.exe filter=lfs diff=lfs merge=lfs -text
+Just[[:space:]]Golf.exe filter=lfs diff=lfs merge=lfs -text
+Not[[:space:]]Quite[[:space:]]Ball[[:space:]]Physics.exe filter=lfs diff=lfs merge=lfs -text
+TURN.exe filter=lfs diff=lfs merge=lfs -text
+Watch[[:space:]]It[[:space:]]Pilot.exe filter=lfs diff=lfs merge=lfs -text
